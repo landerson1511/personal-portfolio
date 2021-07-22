@@ -1,0 +1,94 @@
+body {color: #d00000;
+margin: 0 auto;
+width: 1300px;}
+
+.container {width: 1300px;
+    margin: 0 auto;
+background-color: rgb(10, 10, 10);
+}
+
+.half-width {
+    width: 600px;
+    float: left;
+}
+
+/***** Header *****/
+nav {float: right;
+padding: 75px 25px;}
+
+nav ul li {
+    display: inline-block;
+
+}
+
+h1 {
+    font-weight: 700;
+    text-transform: uppercase;
+}
+header {
+   height: 500px;
+   background: url(https://images.pexels.com/photos/821644/pexels-photo-821644.jpeg?auto=compress&cs=tinysrgb&dpr=3&h=750&w=1260);
+   background-size: cover;
+   background-position: center;
+   
+}
+
+header h1 {float: left;
+    padding: 65px 0 65px 25px;}
+
+    nav ul li a {
+        text-decoration: none;
+        text-transform: uppercase;
+        padding: 25px;
+        color: #d00000;
+        font-weight: 700;
+        font-size: 20px;
+    }
+    #intro {color: #faa307;}
+    h2 {clear: both;
+    text-align: center;
+padding-top: 100px;
+} 
+
+
+
+
+#about p {
+    font-size: 21px;
+    color: #faa307;
+    padding-left: 50px;
+    padding-right: 50px;
+}
+
+#work {border-bottom: 2px solid red;}
+
+.legendary-rental {width: 325px;
+padding: 50px;}
+
+.jubilee-austen {width: 325px;
+padding: 50px;}
+
+.rogue-pick {width: 325px;
+padding: 50px;}
+
+
+footer {overflow: auto;}
+
+
+.contact {width: 600px;
+float: left;
+clear: both;
+}
+
+ .email {text-align: center;
+padding-top: 150px;
+font-size: 20px;}
+
+.email a {color: #d00000}
+
+
+
+#contact .contact-img{
+    margin: 25px;
+    border: 2px solid #faa307;
+}
